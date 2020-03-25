@@ -1,0 +1,5 @@
+C:\Users\ciki3\source\repos\ADONETopdracht\bin\Debug\netstandard2.0\ADONETopdracht.deps.json
+C:\Users\ciki3\source\repos\ADONETopdracht\bin\Debug\netstandard2.0\ADONETopdracht.dll
+C:\Users\ciki3\source\repos\ADONETopdracht\obj\Debug\netstandard2.0\ADONETopdracht.csprojAssemblyReference.cache
+C:\Users\ciki3\source\repos\ADONETopdracht\obj\Debug\netstandard2.0\ADONETopdracht.AssemblyInfoInputs.cache
+C:\Users\ciki3\source\repos\ADONETopdracht\obj\Debug\netstandard2.0\ADONETopdracht.AssemblyInfo.cs
